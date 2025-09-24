@@ -5,7 +5,8 @@ This guide provides step-by-step instructions for using the Campus Course & Reco
 ---
 
 ## Main Menu
-Upon running the application, you will be presented with the main menu. To select an option, type the corresponding number and press `Enter`.---
+Upon running the application, you will be presented with the main menu. To select an option, type the corresponding number and press `Enter`.
+
 
 ## 1. Manage Students
 
