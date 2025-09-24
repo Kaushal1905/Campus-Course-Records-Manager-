@@ -7,7 +7,6 @@ This guide provides step-by-step instructions for using the Campus Course & Reco
 ## Main Menu
 Upon running the application, you will be presented with the main menu. To select an option, type the corresponding number and press `Enter`.
 
-![Alt text for the image](Screenshots/Main Menu for the Project.png)
 ## 1. Manage Students
 
 This menu allows you to add and view student records.
