@@ -138,39 +138,73 @@ http://localhost/Campus-Course-Records-Manager-/
 ```
 
 ---
-
 # 🖥️ Screenshots
 
-## 🔐 Login Page
+## 🏠 Main Output
 
-![Login Page](screenshots/login.png)
-
----
-
-## 🏠 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
+![Main Output](Output/Main%20Output.png)
 
 ---
 
-## 👨‍🎓 Student Management
+## 📚 Course Module
 
-![Student Management](screenshots/students.png)
+### ➕ Adding Course Details
 
----
+![Adding Course Details](Output/Course/Adding%20Course%20Details.png)
 
-## 📚 Course Management
+### 🏫 Course Class
 
-![Course Management](screenshots/courses.png)
+![Course Class](Output/Course/Course%20Class.png)
 
----
+### 📋 List of All Courses
 
-## 📝 Records Section
-
-![Records Section](screenshots/records.png)
+![List of all Course](Output/Course/List%20of%20all%20Course.png)
 
 ---
 
+## 👨‍🎓 Student Module
+
+### ➕ Adding Student Details
+
+![Adding Student Details](Output/Student/Adding%20Student%20Details.png)
+
+### 📋 List of All Students
+
+![List of all student](Output/Student/List%20of%20all%20student.png)
+
+### 🏫 Student Class
+
+![Student Class](Output/Student/Student%20Class.png)
+
+---
+
+## ⚙️ Project Setup
+
+### ☕ Java Version Check
+
+![Java Version Check](Output/Java%20Version%20Check.png)
+
+### 🖥️ Eclipse Project Setup
+
+![Eclipse Project Setup](Output/Eclipse%20Project%20Setup.png)
+
+### 🏗️ Eclipse Class Setup
+
+![Eclipse Class Setup](Output/Eclipse%20Class%20Setup.png)
+
+---
+
+## 📌 Main Menu
+
+![Main Menu for the Project](Output/Main%20Menu%20for%20the%20Project.png)
+
+---
+
+## 💾 Backup
+
+![Backup](Output/Backup.png)
+
+---
 # 💡 Future Enhancements
 
 🚀 Role-Based Authentication  
