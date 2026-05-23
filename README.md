@@ -141,8 +141,6 @@ http://localhost/Campus-Course-Records-Manager-/
 
 # 🖥️ Screenshots
 
-> 📌 Place all screenshots inside the `screenshots/` folder.
-
 ## 🔐 Login Page
 
 ![Login Page](screenshots/login.png)
