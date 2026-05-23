@@ -182,21 +182,21 @@ http://localhost/Campus-Course-Records-Manager-/
 
 ### ☕ Java Version Check
 
-![Java Version Check](Output/Java%20Version%20Check.png)
+![Java Version Check](Output/JavaVersionCheck.png)
 
 ### 🖥️ Eclipse Project Setup
 
-![Eclipse Project Setup](Output/Eclipse%20Project%20Setup.png)
+![Eclipse Project Setup](Output/EclipseProjectSetup.png)
 
 ### 🏗️ Eclipse Class Setup
 
-![Eclipse Class Setup](Output/Eclipse%20Class%20Setup.png)
+![Eclipse Class Setup](Output/EclipseClassSetup.png)
 
 ---
 
 ## 📌 Main Menu
 
-![Main Menu for the Project](Output/Main%20Menu%20for%20the%20Project.png)
+![Main Menu for the Project](Output/MainMenufortheProject.png)
 
 ---
 
