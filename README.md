@@ -142,7 +142,7 @@ http://localhost/Campus-Course-Records-Manager-/
 
 ## 🏠 Main Output
 
-![Main Output](Output/Main%20Output.png)
+![Main Output](Output/MainOutput.png)
 
 ---
 
@@ -150,15 +150,15 @@ http://localhost/Campus-Course-Records-Manager-/
 
 ### ➕ Adding Course Details
 
-![Adding Course Details](Output/Course/Adding%20Course%20Details.png)
+![Adding Course Details](Output/Course/AddingCourseDetails.png)
 
 ### 🏫 Course Class
 
-![Course Class](Output/Course/Course%20Class.png)
+![Course Class](Output/Course/CourseClass.png)
 
 ### 📋 List of All Courses
 
-![List of all Course](Output/Course/List%20of%20all%20Course.png)
+![List of all Course](Output/Course/ListofallCourse.png)
 
 ---
 
@@ -166,15 +166,15 @@ http://localhost/Campus-Course-Records-Manager-/
 
 ### ➕ Adding Student Details
 
-![Adding Student Details](Output/Student/Adding%20Student%20Details.png)
+![Adding Student Details](Output/Student/AddingStudentDetails.png)
 
 ### 📋 List of All Students
 
-![List of all student](Output/Student/List%20of%20all%20student.png)
+![List of all student](Output/Student/Listofallstudent.png)
 
 ### 🏫 Student Class
 
-![Student Class](Output/Student/Student%20Class.png)
+![Student Class](Output/Student/StudentClass.png)
 
 ---
 
