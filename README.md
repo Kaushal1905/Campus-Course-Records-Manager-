@@ -150,15 +150,15 @@ http://localhost/Campus-Course-Records-Manager-/
 
 ### ➕ Adding Course Details
 
-![Adding Course Details](Output/Course/AddingCourseDetails.png)
+![Adding Course Details](Screenshots/Output/Course/AddingCourseDetails.png)
 
 ### 🏫 Course Class
 
-![Course Class](Output/Course/CourseClass.png)
+![Course Class](Screenshots/Output/Course/CourseClass.png)
 
 ### 📋 List of All Courses
 
-![List of all Course](Output/Course/ListofallCourse.png)
+![List of all Course](Screenshots/Output/Course/ListofallCourse.png)
 
 ---
 
@@ -166,15 +166,15 @@ http://localhost/Campus-Course-Records-Manager-/
 
 ### ➕ Adding Student Details
 
-![Adding Student Details](Output/Student/AddingStudentDetails.png)
+![Adding Student Details](Screenshots/Output/Student/AddingStudentDetails.png)
 
 ### 📋 List of All Students
 
-![List of all student](Output/Student/Listofallstudent.png)
+![List of all student](Screenshots/Output/Student/Listofallstudent.png)
 
 ### 🏫 Student Class
 
-![Student Class](Output/Student/StudentClass.png)
+![Student Class](Screenshots/Output/Student/StudentClass.png)
 
 ---
 
@@ -182,27 +182,27 @@ http://localhost/Campus-Course-Records-Manager-/
 
 ### ☕ Java Version Check
 
-![Java Version Check](Output/JavaVersionCheck.png)
+![Java Version Check](Screenshots/JavaVersionCheck.png)
 
 ### 🖥️ Eclipse Project Setup
 
-![Eclipse Project Setup](Output/EclipseProjectSetup.png)
+![Eclipse Project Setup](Screenshots/EclipseProjectSetup.png)
 
 ### 🏗️ Eclipse Class Setup
 
-![Eclipse Class Setup](Output/EclipseClassSetup.png)
+![Eclipse Class Setup](Screenshots/EclipseClassSetup.png)
 
 ---
 
 ## 📌 Main Menu
 
-![Main Menu for the Project](Output/MainMenufortheProject.png)
+![Main Menu for the Project](Screenshots/MainMenufortheProject.png)
 
 ---
 
 ## 💾 Backup
 
-![Backup](Output/Backup.png)
+![Backup](Screenshots/Output/Backup.png)
 
 ---
 # 💡 Future Enhancements
